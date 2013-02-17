@@ -10,6 +10,7 @@ vk_parse_wall();
   2. Юмор
 */
 
+//Вадик Лошар!
 
 function vk_parse_wall(){
         
