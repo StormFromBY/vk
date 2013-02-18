@@ -11,4 +11,5 @@ mysql_query("SET CHARSET utf8");
 mysql_query("SET NAMES utf8");
 mysql_select_db($db) or die("Нет соединения с БД".mysql_error());
  
+ //fff
 ?>
