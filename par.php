@@ -11,6 +11,7 @@ vk_parse_wall();
 */
 
 //Вадик Лошар! АХАХА! =) test!!!
+//One Day!!!
 
 function vk_parse_wall(){
         
